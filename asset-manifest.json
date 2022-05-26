@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b398906d.css",
+    "main.js": "/static/js/main.c936ad7d.js",
+    "static/media/video.mp4": "/static/media/video.f9e7e3288955f7832239.mp4",
+    "static/media/unicorn_edited.png": "/static/media/unicorn_edited.94a3ec490bdc845bd467.png",
+    "static/media/warning.svg": "/static/media/warning.c2eb0b0816dcb9d103a2d87914638f29.svg",
+    "static/media/react.svg": "/static/media/react.b4c90351d0df3794e2b5df2291dd8729.svg",
+    "static/media/gaming.svg": "/static/media/gaming.de3a1ee50817f3bfa602fd475001d21c.svg",
+    "static/media/web_develop.svg": "/static/media/web_develop.81e5094dc3377f36dd62dec87e40af74.svg",
+    "static/media/dream_world.svg": "/static/media/dream_world.6f25974f94df892f0dffa06915056438.svg",
+    "static/media/proud_coder.svg": "/static/media/proud_coder.210a51fa471442991211f3eaf3fea94c.svg",
+    "static/media/happy_balloon.svg": "/static/media/happy_balloon.daae05783f76fb92063d4d50c2fb5c21.svg",
+    "index.html": "/index.html",
+    "main.b398906d.css.map": "/static/css/main.b398906d.css.map",
+    "main.c936ad7d.js.map": "/static/js/main.c936ad7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b398906d.css",
+    "static/js/main.c936ad7d.js"
+  ]
+}
