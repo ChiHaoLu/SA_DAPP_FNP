@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Moralis from "moralis";
 import axios from "axios";
 
-var YourApiKeyToken = "TVQ7CXSAVS8VYXHC84PGFA3I8A618IMQYQ";
+var YourApiKeyToken = "";
 
 const d = new Date();
 
