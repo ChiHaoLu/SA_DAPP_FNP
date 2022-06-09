@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const apiKey = "TVQ7CXSAVS8VYXHC84PGFA3I8A618IMQYQ";
+const apiKey = ;
 const d = new Date();
 
 async function checkMinting(results, setOutput) {
