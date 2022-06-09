@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-var YourApiKeyToken = "TVQ7CXSAVS8VYXHC84PGFA3I8A618IMQYQ";
+var YourApiKeyToken = "";
 var celebrityList = [
   ["Ethereum Foundation", "0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe"],
   ["Vitalik", "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B"],
